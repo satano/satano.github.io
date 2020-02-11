@@ -1,3 +1,8 @@
+---
+title: Kros Meetup #1
+layout: default
+---
+
 ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/satano/satano.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
@@ -6,7 +11,7 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 
 ### Markdown
 
-<hr />
+<hr/>
 
 <video id="azuremediaplayer" class="azuremediaplayer amp-default-skin amp-big-play-centered" controls autoplay width="640"
     height="400" poster="" data-setup='{}' tabindex="0">
@@ -17,7 +22,7 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
         HTML5 video</p>
 </video>
 
-<hr />
+<hr/>
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
