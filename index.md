@@ -1,5 +1,5 @@
 ---
-title: Kros Meetup \#1
+title: Kros Meetup 1
 layout: default
 ---
 
