@@ -6,6 +6,8 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 
 ### Markdown
 
+<hr />
+
 <h1>Lorem ipsum</h1>
 
 <hr />
